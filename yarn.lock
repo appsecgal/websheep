@@ -4686,15 +4686,15 @@ expect@^24.9.0:
     jest-message-util "^24.9.0"
     jest-regex-util "^24.9.0"
 
-express-openapi-validator@^4.10.11:
-  version "4.10.11"
-  resolved "https://registry.yarnpkg.com/express-openapi-validator/-/express-openapi-validator-4.10.11.tgz#9486777e217d0b1834c8e7e26936ab9125e864c6"
-  integrity sha512-Pvw3O7L2b5JNj6W8EuvjTh9FAD1CqaJ8mpafKzYfvbMFJX7LlLGal60n5VTjjtci45gkaJMVNrj6nBu0h/2y4g==
+express-openapi-validator@^4.12.1:
+  version "4.12.6"
+  resolved "https://registry.yarnpkg.com/express-openapi-validator/-/express-openapi-validator-4.12.6.tgz#0738a0f7b8fb643839dd8c4a5f95809cb2d51f08"
+  integrity sha512-F8m1Kp2zNhwGq2a/cu5PJgZkIQs5WyH68nSxH0uIOoHmDF8PPixp2xEtuQVtj/XQeAtBT7Em+7q7GT7ASGjXzg==
   dependencies:
     "@types/multer" "^1.4.5"
     ajv "^6.12.6"
     content-type "^1.0.4"
-    json-schema-ref-parser "^9.0.6"
+    json-schema-ref-parser "^9.0.7"
     lodash.clonedeep "^4.5.0"
     lodash.get "^4.4.2"
     lodash.uniq "^4.5.0"
@@ -6862,7 +6862,7 @@ json-parse-better-errors@^1.0.0, json-parse-better-errors@^1.0.1, json-parse-bet
   resolved "https://registry.yarnpkg.com/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz#bb867cfb3450e69107c131d1c514bab3dc8bcaa9"
   integrity sha512-mrqyZKfX5EhL7hvqcV6WG1yYjnjeuYDzDhhcAAUrq8Po85NBQBJP+ZDUT75qZQ98IkUoBqdkExkukOU7Ts2wrw==
 
-json-schema-ref-parser@^9.0.6:
+json-schema-ref-parser@^9.0.7:
   version "9.0.7"
   resolved "https://registry.yarnpkg.com/json-schema-ref-parser/-/json-schema-ref-parser-9.0.7.tgz#c0ccc5aaee34844f0865889b67e0b67d616f7375"
   integrity sha512-uxU9Ix+MVszvCTvBucQiIcNEny3oAEFg7EQHSZw2bquCCuqUqEPEczIdv/Uqo1Zv4/wDPZqOI+ulrMk1ncMtjQ==
